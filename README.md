@@ -1,4 +1,4 @@
 # My Practice Git Repo
 
 ## What This Is
-This is a repo ton practice using git 
+This is a repo to practice using git 
